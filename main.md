@@ -1,12 +1,15 @@
 
 OK, first file dude !
 
+
+I said new line ...
+
 New set of changes ...
 
-Changing stuff again ...
+New line ...
+
+Changing stuff -- changed line -- again ...
 
 And again ... ah interesting, green border :)
-
-New stuff ?
 
 Arf, well changes are nice this way ?
