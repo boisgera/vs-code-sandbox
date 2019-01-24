@@ -1,10 +1,13 @@
 
 OK, first file dude !
 
+Wada wada
+
+Inserting stuff
 
 I said new line ...
 
-New set of changes ...
+New set of -- changing in the middle --- changes ...
 
 New line ...
 
@@ -12,4 +15,5 @@ Changing stuff -- changed line -- again ...
 
 And again ... ah interesting, green border :)
 
-Arf, well changes are nice this way ?
+
+Supreesing stuff ...
